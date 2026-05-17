@@ -11,4 +11,4 @@ let user = {
     },
 };
 
-console.log(user.address?.location?);
+console.log(user.address?.location?.lat);
