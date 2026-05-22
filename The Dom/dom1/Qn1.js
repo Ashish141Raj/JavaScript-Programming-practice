@@ -12,5 +12,5 @@ Hint:
 let button = document.querySelector("button");
 let paragraph = document.querySelector("p");
 button.onclick = ()=>{
-    paragraph.innerText = "clicked";
+    button.innerText = "clicked";
 }
