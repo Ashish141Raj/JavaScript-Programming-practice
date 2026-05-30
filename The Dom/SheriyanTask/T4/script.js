@@ -1,0 +1,1 @@
+document.querySelector("a").setAttribute("href","https://sheryians.com");
